@@ -6,6 +6,7 @@
 //
 
 import Foundation
+
 struct Calculator {
     
     var operand1: Double
